@@ -1,0 +1,27 @@
+.details-bdy{
+    font-size: 18px;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 7px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    border-radius: 10px;
+    max-height: 475px;
+    min-width: 600px;
+    max-width: 680px;
+    overflow: scroll;
+
+    font-weight: 300;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 12px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(71, 43, 97); 
+    border-radius: 10px;
+  }

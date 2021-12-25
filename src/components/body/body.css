@@ -1,0 +1,7 @@
+.body-container{
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+    background-color: rgb(219, 224, 230);
+    padding: 30px;
+    max-height: 500px;
+}
